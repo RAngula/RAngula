@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rhys 
+- 👋 Hi, I’m Rhys [Data Engineer] 
 - 👀 I’m interested in SQL, BI Soultuions, Automation, Coffee, Python, R, Cinema, Guitar, Tech
 - 🌱 I’m currently learning R, Python, Looker, Tableau, Advanced Data Analytcis
 - 💞️ I’m looking to collaborate on Hackathons, Learning Opportunities
